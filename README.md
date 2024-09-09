@@ -1,144 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project Name</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-    }
+<h1 align="center">Hi 👋, I'm Parth Patel</h1>
+<h3 align="center">Passionate and experienced mobile app developer with expertise in Android development using Kotlin and cross-platform development using React Native. I enjoy building scalable, robust mobile applications that provide seamless user experiences. I'm constantly learning new technologies to write clean, maintainable code.</h3>
 
-    header {
-      background-color: #333;
-      color: #fff;
-      padding: 20px 0;
-      text-align: center;
-    }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth268&label=Profile%20views&color=0e75b6&style=flat" alt="parth268" /> </p>
 
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth268" alt="parth268" /></a> </p>
 
-    section {
-      padding: 20px;
-      max-width: 800px;
-      margin: 0 auto;
-      background-color: #fff;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
+- 🔭 I’m currently working on [Vault app](https://play.google.com/store/apps/developer?id=SESSION+DEVELOPER)
 
-    h2 {
-      color: #333;
-      margin-top: 20px;
-      font-size: 1.75rem;
-    }
+- 🌱 I’m currently learning **Backend Developer**
 
-    p, li {
-      color: #555;
-    }
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=SESSION+DEVELOPER](https://play.google.com/store/apps/developer?id=SESSION+DEVELOPER)
 
-    code {
-      background-color: #f4f4f4;
-      padding: 5px;
-      border-radius: 5px;
-      font-family: monospace;
-    }
+- 💬 Ask me about **React native, Android native (Kotlin,java)**
 
-    pre {
-      background-color: #eee;
-      padding: 15px;
-      border-radius: 8px;
-      font-size: 1rem;
-      overflow-x: auto;
-    }
+- 📫 How to reach me **ssession177@gmail.com**
 
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-    .button {
-      display: inline-block;
-      background-color: #28a745;
-      color: #fff;
-      padding: 10px 20px;
-      text-decoration: none;
-      border-radius: 5px;
-      margin-top: 10px;
-    }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-    .button:hover {
-      background-color: #218838;
-    }
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/ppdeveloper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ppdeveloper" /></a><a href="https://ko-fi.com/ppdeveloper"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ppdeveloper" /></a></p><br><br>
 
-    footer {
-      text-align: center;
-      margin: 20px 0;
-      font-size: 0.9rem;
-      color: #777;
-    }
-  </style>
-</head>
-<body>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth268&show_icons=true&locale=en&layout=compact" alt="parth268" /></p>
 
-  <header>
-    <h1>Project Name</h1>
-  </header>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth268&show_icons=true&locale=en" alt="parth268" /></p>
 
-  <section>
-    <h2>Description</h2>
-    <p>A brief description of your project. Explain what it does, the problem it solves, and why it's useful.</p>
-
-    <h2>Features</h2>
-    <ul>
-      <li>Feature 1: Describe a key feature here.</li>
-      <li>Feature 2: Describe another feature.</li>
-      <li>Feature 3: Add more as needed.</li>
-    </ul>
-
-    <h2>Installation</h2>
-    <p>Step-by-step instructions on how to set up and run your project locally.</p>
-
-    <pre>
-      git clone https://github.com/your-username/repository-name.git
-      cd repository-name
-      npm install
-      npm start
-    </pre>
-
-    <h2>Usage</h2>
-    <p>Provide examples of how to use the project. Include code snippets or commands.</p>
-
-    <pre>
-      command --option value
-    </pre>
-
-    <h2>Contributing</h2>
-    <p>If you'd like others to contribute, outline the steps for doing so.</p>
-    <ul>
-      <li>Fork the project.</li>
-      <li>Create a feature branch: <code>git checkout -b feature-branch</code></li>
-      <li>Commit your changes: <code>git commit -m "Add a feature"</code></li>
-      <li>Push to the branch: <code>git push origin feature-branch</code></li>
-      <li>Open a pull request.</li>
-    </ul>
-
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="#">LICENSE</a> file for details.</p>
-
-    <a href="https://github.com/your-username/repository-name" class="button">Visit Repository</a>
-  </section>
-
-  <footer>
-    &copy; 2024 Your Name. All rights reserved.
-  </footer>
-
-</body>
-</html>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth268&" alt="parth268" /></p>
