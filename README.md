@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth268" alt="parth268" /></a> </p>
 
-- 🔭 I’m currently working on [Vault app](https://play.google.com/store/apps/developer?id=SESSION+DEVELOPER)
-
 - 🌱 I’m currently learning **Backend Developer**
-
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=SESSION+DEVELOPER](https://play.google.com/store/apps/developer?id=SESSION+DEVELOPER)
 
 - 💬 Ask me about **React native, Android native (Kotlin,java)**
 
