@@ -6,9 +6,8 @@
 
 - 💬 Ask me about **React native, Android native (Kotlin,java)**
 
-- 📫 How to reach me **ssession177@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  **ssession177@gmail.com**</h3>
 <p align="left">
 </p>
 
