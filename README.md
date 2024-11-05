@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Patel</h1>
 <h3 align="center">Passionate and experienced mobile app developer with expertise in Android development using Kotlin and cross-platform development using React Native. I enjoy building scalable, robust mobile applications that provide seamless user experiences. I'm constantly learning new technologies to write clean, maintainable code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth268&label=Profile%20views&color=0e75b6&style=flat" alt="parth268" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth268" alt="parth268" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Developer**
 
